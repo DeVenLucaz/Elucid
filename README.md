@@ -152,9 +152,17 @@ Yes, including via Termux on Android.
 **Is this free?**
 Yes. MIT license. Free forever.
 
-**Can I contribute?**
-Yes! See CONTRIBUTING.md. You don't need coding skills — you can contribute
-before/after examples, test the skill on your device, or translate the README.
+---
+
+## Contributing
+
+We love contributions! You don't need to be a developer to help make Elucid better.
+
+- **Add Examples:** Share your best "before and after" teaching moments in `references/examples.md`.
+- **Test & Feedback:** Use the skill and tell us where it could be clearer or more educational.
+- **Refine Rules:** Help us improve the instructions in `SKILL.md` to catch more "AI fluff".
+
+For full details on how to get involved, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
